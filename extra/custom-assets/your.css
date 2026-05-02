@@ -9,4 +9,5 @@ h1 {
 h2 {
     font-size: 24px;
     text-align: left !important;
+    width: 80% !important;
 }

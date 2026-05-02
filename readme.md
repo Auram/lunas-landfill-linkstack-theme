@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: LunasLandfill
-*	Theme Version: 1.0
+*	Theme Version: 1.0.1
 *	Theme Date: 2026-05-02
 *	Theme Author: auram
 *	Theme Author URI: https://github.com/auram
